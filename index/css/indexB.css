@@ -1,0 +1,27 @@
+html {
+    min-width: 1200px;
+}
+.head-con,.about>div,.team>div,.public>div,.gh>div,.footer>div {
+    width: 1200px;
+}
+.head-con li {
+    width: 100px;
+}
+.team .team-top>img {
+    width: 620px;
+}
+.team .team-top h3, .public h3, .gh h3 {
+    font-size: 32px;
+}
+.team p,.gh p,.public p {
+    font-size: 18px;
+}
+.team .team-dow>div {
+    width: 574px;
+}
+.public>div>div,.gh>div>div,.gh>div>img {
+    width: 594px;
+}
+.public>div>img,.gh>div>img {
+    width: 600px;
+}
